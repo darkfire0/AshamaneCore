@@ -1,4 +1,7 @@
 # AshamaneCore
+Boost: 1.33 - 1.68
+MySQL: 5.7
+OpenSSL: 1.0 - 1.2
 
 --------------
 
